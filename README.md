@@ -8,7 +8,7 @@ Sabrent Rocket Nvme 256 Gb
 
 (Thank you youngle316 for this parameters in BIOS)
 
-# OFF
+(OFF)
 Fast Boot
 Secure Boot
 VT-d
@@ -17,7 +17,7 @@ Intel SGX
 Intel Platform Trust
 CFG Lock （ Must be set to Not available ）
 
-# ON
+(ON)
 VT-x
 Above 4G decoding
 Hyper-Threading
