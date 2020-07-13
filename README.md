@@ -1,4 +1,4 @@
-# EFI + BIOS Asrock Z370m Pro4 Catalina 10.15.5 OpenCore
+# EFI Asrock Z370m Pro4 Catalina 10.15.5 OpenCore
 
 Asrock Z370m Pro4 <br>
 i5 8400 <br>
@@ -23,6 +23,3 @@ Above 4G decoding<br>
 Hyper-Threading<br>
 EHCI/XHCI Hand-off<br>
 DVMT Pre-Allocated(iGPU Memory): 64MB<p>
-
-
-# I also leave my BIOS for you to load and everything works for you.
