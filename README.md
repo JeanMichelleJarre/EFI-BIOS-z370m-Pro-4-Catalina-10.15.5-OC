@@ -1,28 +1,28 @@
 # EFI + BIOS Asrock Z370m Pro4 Catalina 10.15.5 OpenCore
 
-Asrock Z370m Pro4
-i5 8400
-16 Gb DDR4 3000Mhz Kingston
-Sabrent Rocket Nvme 256 Gb
+Asrock Z370m Pro4 <br>
+i5 8400 <br>
+16 Gb DDR4 3000Mhz Kingston <br>
+Sabrent Rocket Nvme 256 Gb <p>
 
 
-(Thank you youngle316 for this parameters in BIOS)
+(Thank you @youngle316 for this parameters in BIOS)<br>
 
-(OFF)
-Fast Boot
-Secure Boot
-VT-d
-CSM
-Intel SGX
-Intel Platform Trust
-CFG Lock （ Must be set to Not available ）
+(OFF)<br>
+Fast Boot<br>
+Secure Boot<br>
+VT-d<br>
+CSM<br>
+Intel SGX<br>
+Intel Platform Trust<br>
+CFG Lock （ Must be set to Not available ）<p>
 
-(ON)
-VT-x
-Above 4G decoding
-Hyper-Threading
-EHCI/XHCI Hand-off
-DVMT Pre-Allocated(iGPU Memory): 64MB
+(ON)<br>
+VT-x<br>
+Above 4G decoding<br>
+Hyper-Threading<br>
+EHCI/XHCI Hand-off<br>
+DVMT Pre-Allocated(iGPU Memory): 64MB<p>
 
 
 # I also leave my BIOS for you to load and everything works for you.
